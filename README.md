@@ -4,7 +4,7 @@ The Merge Intervals function provided in this repository merges overlapping inte
 
 ## Example
 
-```c++
+```cpp
 intervals = [[1,3],[2,6],[8,10],[15,18]]
 print(mergeIntervals(intervals)) # Output: [[1,6],[8,10],[15,18]]
 

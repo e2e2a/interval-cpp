@@ -1,6 +1,16 @@
 # Merge Intervals in C++
 
-The mergeIntervals function provided in this repository merges overlapping intervals from a collection of intervals.
+The Merge Intervals function provided in this repository merges overlapping intervals from a collection of intervals.
+
+## Example
+
+```c++
+intervals = [[1,3],[2,6],[8,10],[15,18]]
+print(mergeIntervals(intervals)) # Output: [[1,6],[8,10],[15,18]]
+
+intervals = [[1,4],[4,5]]
+print(mergeIntervals(intervals)) # Output: [[1,5]]
+```
 
 ## Prerequisites
 
